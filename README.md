@@ -1,17 +1,7 @@
 # flutter_newcardwidget
 
-A new Flutter project.
+Esse projecto ainda carece de uma lapidagem no codigo, mas estas convidado a dar uma olhada e melhora-lo
+there's still clean code to do, but you're welcome if you want to change a bit
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_cardwidget
+![WhatsApp Image 2021-08-26 at 20 53 44](https://user-images.githubusercontent.com/27967773/131027788-833468ca-4dfe-4242-acd8-9a2e4a649fe5.jpeg)
